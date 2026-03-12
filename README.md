@@ -1,2 +1,4 @@
 # HOSNI Team
 GlobalCare Health Analytics Project
+## task2 
+A target is a goal set by management to guide the project, often based on business needs rather than technical analysis. In contrast, an estimate is a realistic prediction of the time or cost required to complete the project, usually calculated by engineers or developers. For example, the GlobalCare CEO might set a target that the GCHA system should be completed within six months to stay competitive. However, the Berlin Lead Architect may estimate that the project will realistically require twelve months due to the complexity of developing and integrating the medical AI system.
