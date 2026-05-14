@@ -16,3 +16,10 @@ staffCB Meeting #1: GDPR 2.0 Response
 
 **Justification:**  
 Approved. Although implementing GDPR 2.0 compliance introduces an estimated 3–4 week delay, the risk of non-compliance is significantly higher. Failure to comply could result in severe regulatory penalties and reputational damage. Therefore, the long-term risk reduction outweighs the short-term schedule impact.
+## APQ Review - Sprint 4
+
+### Administrative Performance Analysis
+After reviewing the Jira Velocity Chart, we noticed a decline in team velocity. This trend is directly linked to high Requirement Volatility, as frequent changes to the AI Dashboard requirements have forced rework and delayed the completion of planned tasks.
+
+### Staff Welfare and Quality Strategy
+To reduce Staff Burnout while maintaining high quality for the Berlin Summit, we are implementing a "Requirement Freeze" two weeks before the deadline. Additionally, we are reallocating non-critical tasks to the Bangalore team to balance the workload and ensure the Berlin team can focus on core stability without excessive overtime.
