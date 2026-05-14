@@ -23,3 +23,11 @@ After reviewing the Jira Velocity Chart, we noticed a decline in team velocity. 
 
 ### Staff Welfare and Quality Strategy
 To reduce Staff Burnout while maintaining high quality for the Berlin Summit, we are implementing a "Requirement Freeze" two weeks before the deadline. Additionally, we are reallocating non-critical tasks to the Bangalore team to balance the workload and ensure the Berlin team can focus on core stability without excessive overtime.
+
+## Decision Log: The Berlin AI Pivot
+
+**Decision:** Replace the internal Berlin AI team with an external AI vendor.
+
+**Justification:**  
+The project team determined that the external AI vendor offers a lower cost to complete and a faster recovery plan for the delayed AI development work. Although the company has already spent approximately $2M on the Berlin team, this amount is considered a sunk cost and should not influence future decisions. The decision was based only on future cost, schedule impact, and the probability of successful project delivery.
+
